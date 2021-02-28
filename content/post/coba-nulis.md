@@ -5,7 +5,6 @@ title: coba nulis
 excerpt: ''
 date: 
 hero: ''
-draft: true
 
 ---
 ini tulisan pertama saya di aplikasi cms dari forestry.io
